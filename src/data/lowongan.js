@@ -1,0 +1,62 @@
+export const dataLowongan = [
+  {
+    id: 1,
+    title: "Account Officer (AO)",
+    location: "Samarinda, Kalimantan Timur",
+    type: "Full-Time",
+    summary: "Bertanggung jawab untuk mencari nasabah, menganalisis kelayakan kredit, dan memelihara hubungan baik dengan nasabah.",
+    responsibilities: [
+      "Melakukan pemasaran produk pinjaman kepada calon nasabah.",
+      "Melakukan analisis dan survei kelayakan calon debitur.",
+      "Menyusun proposal kredit dan mempresentasikannya kepada komite kredit.",
+      "Memantau kelancaran pembayaran angsuran debitur.",
+    ],
+    qualifications: [
+      "Pria/Wanita, usia maksimal 30 tahun.",
+      "Pendidikan minimal D3/S1 semua jurusan.",
+      "Memiliki kendaraan pribadi dan SIM C.",
+      "Berorientasi pada target dan mampu bekerja di bawah tekanan.",
+      "Jujur, teliti, dan memiliki kemampuan komunikasi yang baik.",
+    ],
+  },
+  {
+    id: 2,
+    title: "Customer Service (CS)",
+    location: "Samarinda, Kalimantan Timur",
+    type: "Full-Time",
+    summary: "Memberikan pelayanan prima kepada nasabah, menangani keluhan, dan mengelola administrasi pembukaan rekening.",
+    responsibilities: [
+      "Melayani nasabah dengan ramah, sopan, dan profesional.",
+      "Memberikan informasi produk dan layanan bank secara jelas.",
+      "Menangani keluhan atau masalah yang dihadapi nasabah.",
+      "Membantu proses administrasi pembukaan rekening tabungan dan deposito.",
+    ],
+    qualifications: [
+      "Wanita, usia maksimal 27 tahun, berpenampilan menarik.",
+      "Pendidikan minimal D3.",
+      "Memiliki kemampuan komunikasi yang sangat baik.",
+      "Sabar, teliti, dan mampu mengoperasikan komputer (Ms. Office).",
+      "Diutamakan yang memiliki pengalaman sebagai Customer Service.",
+    ],
+  },
+  {
+    id: 3,
+    title: "IT Support Staff",
+    location: "Samarinda, Kalimantan Timur",
+    type: "Full-Time",
+    summary: "Bertanggung jawab atas pemeliharaan infrastruktur jaringan dan perangkat keras di kantor serta memberikan dukungan teknis.",
+    responsibilities: [
+      "Melakukan instalasi, konfigurasi, dan troubleshooting perangkat keras (PC, printer) dan perangkat lunak.",
+      "Memastikan jaringan LAN dan koneksi internet berjalan lancar.",
+      "Memberikan dukungan teknis kepada karyawan.",
+      "Melakukan backup data secara rutin.",
+    ],
+    qualifications: [
+      "Pria, usia maksimal 28 tahun.",
+      "Pendidikan minimal D3/S1 Teknik Informatika atau Sistem Informasi.",
+      "Menguasai troubleshooting hardware, software, dan jaringan (Mikrotik).",
+      "Memahami konsep database (MySQL).",
+      "Responsif dan dapat bekerja dalam tim.",
+    ],
+  },
+];
