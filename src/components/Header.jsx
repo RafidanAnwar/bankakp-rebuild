@@ -28,7 +28,7 @@ const Header = () => {
     <header className="bg-white shadow-md sticky top-0 z-50">
       <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
         <Link to="/">
-          <img src="public/banner3.jpg" alt="Bank AKP Logo" className="h-10" />
+          <img src="banner3.jpg" alt="Bank AKP Logo" className="h-10" />
         </Link>
 
         {/* Navigasi Desktop */}

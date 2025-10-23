@@ -42,17 +42,17 @@ const WhyUs = () => {
         {/* Grid untuk Card */}
         <div className="grid md:grid-cols-3 gap-8">
           <WhyUsCard
-            imgSrc="public\keamanan.png" // GANTI DENGAN GAMBAR ANDA
+            imgSrc="keamanan.png" // GANTI DENGAN GAMBAR ANDA
             title="KEAMANAN"
             description="Tenang dengan penjaminan LPS. Sehingga uang anda akan aman, kami memberikan keamanan semaksimal mungkin untuk aset anda."
           />
           <WhyUsCard
-            imgSrc="public\waktu.png" // GANTI DENGAN GAMBAR ANDA
+            imgSrc="waktu.png" // GANTI DENGAN GAMBAR ANDA
             title="WAKTU"
             description="Kami memberikan proses Cepat dan Mudah untuk anda agar kebutuhan mendesak anda ataupun hal lain dapat terpenuhi segera."
           />
           <WhyUsCard
-            imgSrc="public\layanan.png" // GANTI DENGAN GAMBAR ANDA
+            imgSrc="layanan.png" // GANTI DENGAN GAMBAR ANDA
             title="LAYANAN"
             description="Pelayanan yang kami berikan memudahkan anda dalam melakukan aktivitas perbankan secara nyaman dan memuaskan setiap saat."
           />
